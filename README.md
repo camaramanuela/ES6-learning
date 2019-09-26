@@ -1,3 +1,3 @@
 # ES6-learning
 
-Curso de ES6, Orientação a objetos e padrões de projeto.
+Curso de ES6, orientação a objetos e padrões de projeto.
